@@ -10,25 +10,25 @@ boxes = [
     {
         :name => "k8s-worker1",
         :eth1 => "192.168.205.101",
-        :mem => "2048",
+        :mem => "1024",
         :cpu => "1"
     },
     {
         :name => "k8s-worker2",
         :eth1 => "192.168.205.102",
-        :mem => "2048",
+        :mem => "1024",
         :cpu => "1"
     },
     {
-        :name => "master2",
+        :name => "k8s-master2",
         :eth1 => "192.168.206.100",
         :mem => "2048",
         :cpu => "2"
     },
     {
-        :name => "worker21",
+        :name => "k8s-worker21",
         :eth1 => "192.168.206.101",
-        :mem => "2048",
+        :mem => "1024",
         :cpu => "1"
     }
 ]
