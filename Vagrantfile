@@ -23,7 +23,7 @@ boxes = [
 #        :name => "k8s-master2",
 #        :eth1 => "192.168.206.100",
 #        :mem => "2048",
-#        :cpu => "2"
+#        :cpu => "1"
 #    },
 #    {
 #        :name => "k8s-worker21",
